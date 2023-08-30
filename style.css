@@ -1,0 +1,59 @@
+body {
+    background-color:#393E46;
+   
+}
+
+.container {
+    width:70%;
+    text-align: center;
+    margin:auto;
+    margin-top: 2rem;
+   
+}
+
+h1 {
+    font-size:100px;
+    font-family: cursive;
+    text-shadow:5px 0 #232931;
+    text-align: center;
+    color:#4ECCA3;
+    margin-top: 1rem;
+    margin-bottom:1rem;
+  
+}
+p {
+    color:#4ECCA3;
+    font-family: 'Indie Flower', cursive;
+    font-size:2rem;
+    margin-top:1rem;
+}
+
+.dice{
+    display:inline-block;
+    text-align:center;
+
+}
+
+img{
+    width:80%;
+
+}
+.game {
+    text-align: center;
+}
+
+button {
+    font-family: cursive;
+    font-size:1rem;
+    width:150px;
+    height:60px;
+    display:inline-block;
+    color:#4ECCA3;
+    background-color:#393E46;
+    margin-top:2rem; 
+}
+
+footer {
+    text-align: center;
+    display:inline;
+}
